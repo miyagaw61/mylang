@@ -1,7 +1,3 @@
-/* eval.c                               */  
-/* 数式を構文解析し、解を求める         */  
-/* コマンドライン第1引数として          */  
-/* シングルクォートで囲んで文字列を渡す */  
 #include <stdio.h>  
 #include <stdlib.h>  
 #include <string.h>  
