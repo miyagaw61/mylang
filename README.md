@@ -1,6 +1,6 @@
 # mylang
 
-my original programming language.
+my クソ適当 original programming language.
 
 # Install
 
