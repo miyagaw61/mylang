@@ -15,10 +15,10 @@ gcc mylang.c -o mylang
 ## code.ml
 
 ```
-a=1+2
-a=a+3
+a = 1 + 2
+a = a + 3
 print(a)
-b=a*3/9
+b = a * 3 / 9
 print(b)
 ```
 
