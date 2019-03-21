@@ -1,6 +1,6 @@
 # mylang
 
-my クソ適当 original programming language.
+mylang - 勉強がてらとりあえず作ってみた簡単なC言語製独自プログラミング言語
 
 # Install
 
